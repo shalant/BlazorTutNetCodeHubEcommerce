@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98AFC94F-F534-46B5-9772-17D0E95989A9}|eCommerceApp.Application\\eCommerceApp.Application.csproj|c:\\users\\digdr\\documents\\coding\\blazortutnetcodehubecommerce\\ecommercenetcodehubtut\\ecommerceapp.application\\dtos\\category\\updatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AFC94F-F534-46B5-9772-17D0E95989A9}|eCommerceApp.Application\\eCommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\dtos\\category\\updatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AFC94F-F534-46B5-9772-17D0E95989A9}|eCommerceApp.Application\\eCommerceApp.Application.csproj|c:\\users\\digdr\\documents\\coding\\blazortutnetcodehubecommerce\\ecommercenetcodehubtut\\ecommerceapp.application\\dtos\\product\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AFC94F-F534-46B5-9772-17D0E95989A9}|eCommerceApp.Application\\eCommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\dtos\\product\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20735B89-628D-4176-A2BF-016736E7F941}|eCommerceApp.Domain\\eCommerceApp.Domain.csproj|c:\\users\\digdr\\documents\\coding\\blazortutnetcodehubecommerce\\ecommercenetcodehubtut\\ecommerceapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20735B89-628D-4176-A2BF-016736E7F941}|eCommerceApp.Domain\\eCommerceApp.Domain.csproj|solutionrelative:ecommerceapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateCategory.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\eCommerceApp.Application\\DTOs\\Category\\UpdateCategory.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Application\\DTOs\\Category\\UpdateCategory.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\eCommerceApp.Application\\DTOs\\Category\\UpdateCategory.cs",
+              "RelativeToolTip": "eCommerceApp.Application\\DTOs\\Category\\UpdateCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:09:47.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProduct.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\eCommerceApp.Application\\DTOs\\Product\\CreateProduct.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Application\\DTOs\\Product\\CreateProduct.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\eCommerceApp.Application\\DTOs\\Product\\CreateProduct.cs",
+              "RelativeToolTip": "eCommerceApp.Application\\DTOs\\Product\\CreateProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:01:28.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\eCommerceApp.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\eCommerceApp.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "eCommerceApp.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:41:36.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
