@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98AFC94F-F534-46B5-9772-17D0E95989A9}|eCommerceApp.Application\\eCommerceApp.Application.csproj|c:\\users\\digdr\\documents\\coding\\blazortutnetcodehubecommerce\\ecommercenetcodehubtut\\ecommerceapp.application\\dtos\\category\\updatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98AFC94F-F534-46B5-9772-17D0E95989A9}|eCommerceApp.Application\\eCommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\dtos\\category\\updatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{448B7057-3FFA-400A-9C6B-F5B0C848E5B5}|eCommerceApp.Infrastructure\\eCommerceApp.Infrastructure.csproj|c:\\users\\digdr\\documents\\coding\\blazortutnetcodehubecommerce\\ecommercenetcodehubtut\\ecommerceapp.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448B7057-3FFA-400A-9C6B-F5B0C848E5B5}|eCommerceApp.Infrastructure\\eCommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20735B89-628D-4176-A2BF-016736E7F941}|eCommerceApp.Domain\\eCommerceApp.Domain.csproj|c:\\users\\digdr\\documents\\coding\\blazortutnetcodehubecommerce\\ecommercenetcodehubtut\\ecommerceapp.domain\\interfaces\\igeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20735B89-628D-4176-A2BF-016736E7F941}|eCommerceApp.Domain\\eCommerceApp.Domain.csproj|solutionrelative:ecommerceapp.domain\\interfaces\\igeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AFC94F-F534-46B5-9772-17D0E95989A9}|eCommerceApp.Application\\eCommerceApp.Application.csproj|c:\\users\\digdr\\documents\\coding\\blazortutnetcodehubecommerce\\ecommercenetcodehubtut\\ecommerceapp.application\\exceptions\\itemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AFC94F-F534-46B5-9772-17D0E95989A9}|eCommerceApp.Application\\eCommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\exceptions\\itemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448B7057-3FFA-400A-9C6B-F5B0C848E5B5}|eCommerceApp.Infrastructure\\eCommerceApp.Infrastructure.csproj|c:\\users\\digdr\\documents\\coding\\blazortutnetcodehubecommerce\\ecommercenetcodehubtut\\ecommerceapp.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448B7057-3FFA-400A-9C6B-F5B0C848E5B5}|eCommerceApp.Infrastructure\\eCommerceApp.Infrastructure.csproj|solutionrelative:ecommerceapp.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98AFC94F-F534-46B5-9772-17D0E95989A9}|eCommerceApp.Application\\eCommerceApp.Application.csproj|c:\\users\\digdr\\documents\\coding\\blazortutnetcodehubecommerce\\ecommercenetcodehubtut\\ecommerceapp.application\\dtos\\product\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98AFC94F-F534-46B5-9772-17D0E95989A9}|eCommerceApp.Application\\eCommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\dtos\\product\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AFC94F-F534-46B5-9772-17D0E95989A9}|eCommerceApp.Application\\eCommerceApp.Application.csproj|c:\\users\\digdr\\documents\\coding\\blazortutnetcodehubecommerce\\ecommercenetcodehubtut\\ecommerceapp.application\\dtos\\category\\updatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AFC94F-F534-46B5-9772-17D0E95989A9}|eCommerceApp.Application\\eCommerceApp.Application.csproj|solutionrelative:ecommerceapp.application\\dtos\\category\\updatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20735B89-628D-4176-A2BF-016736E7F941}|eCommerceApp.Domain\\eCommerceApp.Domain.csproj|c:\\users\\digdr\\documents\\coding\\blazortutnetcodehubecommerce\\ecommercenetcodehubtut\\ecommerceapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +38,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 331,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\eCommerceApp.Application\\Exceptions\\ItemNotFoundException.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Application\\Exceptions\\ItemNotFoundException.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\eCommerceApp.Application\\Exceptions\\ItemNotFoundException.cs",
+              "RelativeToolTip": "eCommerceApp.Application\\Exceptions\\ItemNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T03:13:16.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\eCommerceApp.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\eCommerceApp.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "eCommerceApp.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T02:45:53.697Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\eCommerceApp.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\eCommerceApp.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "eCommerceApp.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T02:41:59.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\eCommerceApp.Domain\\Interfaces\\IGeneric.cs",
+              "RelativeDocumentMoniker": "eCommerceApp.Domain\\Interfaces\\IGeneric.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\eCommerceApp.Domain\\Interfaces\\IGeneric.cs",
+              "RelativeToolTip": "eCommerceApp.Domain\\Interfaces\\IGeneric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T02:38:49.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UpdateCategory.cs",
               "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\eCommerceApp.Application\\DTOs\\Category\\UpdateCategory.cs",
               "RelativeDocumentMoniker": "eCommerceApp.Application\\DTOs\\Category\\UpdateCategory.cs",
@@ -38,12 +114,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CreateProduct.cs",
               "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\eCommerceApp.Application\\DTOs\\Product\\CreateProduct.cs",
               "RelativeDocumentMoniker": "eCommerceApp.Application\\DTOs\\Product\\CreateProduct.cs",
@@ -56,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorTutNetCodeHubEcommerce\\EcommerceNetCodeHubTut\\eCommerceApp.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "eCommerceApp.Domain\\Entities\\Product.cs",
@@ -66,10 +138,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T14:41:36.039Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }
